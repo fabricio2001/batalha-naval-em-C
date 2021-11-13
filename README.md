@@ -3,4 +3,4 @@ Meu primeiro projeto que desenvolvi num trabalho da faculdade junto com meu cole
 Foi feito em programação estruturada, pois na epoca estava começando a aprende a programar. <br>
 Dessa forma o codigo pode esta bem feio.
 
-# CODIGO LIVRE PARA USO TOTAL EM QUALQUER FINALIDADE
+
